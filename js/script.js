@@ -228,7 +228,7 @@ L.marker([53.161324119029274, -4.406480630979432],{ icon: RedPin })
               <i class="far fa-star"></i>
             </div>
             <a href="https://maps.app.goo.gl/QP71F5tRU6ZnyCLq8" target="_blank">View on Google Maps</a><br>
-            <a href="Aberlleiniog_Castle.html" >To The review!</a>
+            <a href="Aberlleiniog_castle.html" >To The review!</a>
           </div>
         </div>
       </div>
