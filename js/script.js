@@ -263,7 +263,7 @@ L.marker([53.161324119029274, -4.406480630979432],{ icon: RedPin })
     .bindPopup(`
       <div class="custom-popup">
         <div class="popup-content">
-          <img src="src/Penmon_point/20250208_135908.jpg" alt="Penmon Point " class="popup-image">
+          <img src="src/Penmon_point/20250208_140054.jpg" alt="Penmon Point " class="popup-image">
           <div class="popup-text">
             <b>Penmon Point</b><br>
             <div class="popup-stars">
