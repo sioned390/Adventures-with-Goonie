@@ -333,7 +333,7 @@ h4{
 
 article{
     padding: 0;
-    max-width: 100%;
+    max-width: 60%;
     display: flex; /* Use Flexbox to align text and sidebar horizontally */
     justify-content: space-between; /* Add space between the text and sidebar */
     align-items: flex-start; /* Align items to the top */
@@ -491,6 +491,7 @@ body {
 /* Make the main content take up available space */
 main {
     flex: 1; /* Allow the main content to grow and fill the space */
+    overflow: auto;
 }
 
 /* Footer styling */
@@ -1138,10 +1139,7 @@ element.style {
         width: 100%; /* Make sure images fill the container */
         height: auto; /* Let the image's height adjust proportionally */
 
-        article{
-            width: 100%
-            float:none;
-            border-radius: 10px;
+
             
     }
 }
