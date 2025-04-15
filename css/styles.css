@@ -333,12 +333,11 @@ h4{
 
 article{
     padding: 0;
-    max-width: 60%;
+    max-width: 100%;
     display: flex; /* Use Flexbox to align text and sidebar horizontally */
     justify-content: space-between; /* Add space between the text and sidebar */
     align-items: flex-start; /* Align items to the top */
     gap: 2rem;
-    float: left;
      margin-left: 5%; 
 }
 
@@ -1138,5 +1137,11 @@ element.style {
     .img-section img {
         width: 100%; /* Make sure images fill the container */
         height: auto; /* Let the image's height adjust proportionally */
+
+        article{
+            width: 100%
+            float:none;
+            border-radius: 10px;
+            
     }
 }
